@@ -1,2 +1,4 @@
 Hello from Branch2
+Hello from Master added.
 Hello from Branch2 again
+Hello from Branch2
